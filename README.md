@@ -17,6 +17,6 @@ $$H_R = -\sum_{i} Z_i -g\sum_{v}A_v,$$
 
 $$H_{im} = -\sum_y Z_{(I-1,y)} Z_{(I,y)} Z_{(I+1,y)},$$
 
-where $A_v$ is a product of four $X$ touching the vertex $v$.
+where $A_v$ is a product of four $X$ touching the vertex $v$. The wavepacket consists of a single spin flip with $Z$ on the left system.
 
 ![2D_animation_lower_resolution](https://github.com/user-attachments/assets/f1d0a222-d44a-4c45-9934-94e24f0ba6f4)
