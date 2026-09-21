@@ -11,7 +11,7 @@ The gif version of the scattering process in our paper:
 
 From the transverse-field Ising model at $g=6$ to a topological phase. The bottom panel measures the product of $X$ along the circumference of the cylinder.
 
-$$H_L = -\sum_{i,j} Z_iZ_j -g\sum_{i}X_i,$$ 
+$H_L = -\sum_{i,j} Z_iZ_j -g\sum_{i}X_i,$
 
 $$H_R = -\sum_{i} Z_i -g\sum_{v}A_v,$$ 
 
