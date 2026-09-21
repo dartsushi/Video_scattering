@@ -9,7 +9,7 @@ The gif version of the scattering process in our paper:
 
 ### Two-dimensional scattering process.
 
-From the transverse-field ising model at $g=6$ to a topological phase. The bottom panel measures the product of $X$ along the circumference of the cylinder.
+From the transverse-field Ising model at $g=6$ to a topological phase. The bottom panel measures the product of $X$ along the circumference of the cylinder.
 
 $$H_L = -\sum_{i,j} Z_iZ_j -g\sum_{i}X_i,$$ 
 
